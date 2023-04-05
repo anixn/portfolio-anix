@@ -2,11 +2,8 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: Hi, This is Ankit, currently working as an assistant professor in the Department of Civil Engineering at Pandit Deendayal Energy University, Gujarat, India. I have obtained a doctoral degree in Water resources from the Indian Institute of Technology, Hyderabad (Jan 2021). My fields of interest are Computational Hydrology, water resource management, and understating the catchment response under anthropogenic changes. In my doctorate, I worked on approaches to identify the catchment's vulnerability to environmental changes. 
+    My current research focuses on the development of a Physio-climatic catchment characteristics dataset for the Indian subcontinent that can be utilized for prediction in the ungauged basins. I possess a strong understanding of GIS processing and am efficient in Geospatial analysis. I am highly motivated in the field of data analysis (finding meaningful insights in data), skilled in programming with R, MATLAB, and Python scripting, and looking for interdisciplinary research opportunities and collaboration. I am a passionate learner and trying to be a better teacher.
 image_left: true
 images:
 - img/revoir.jpg
