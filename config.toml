@@ -4,7 +4,7 @@ languageCode = "en"
 title = "Dr. Ankit Deshmukh Portfolio"
 author = "Dr. Ankit Deshmukh"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = ""
+googleAnalytics = "G-8QBMHDX7LY"
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "anix7n"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
