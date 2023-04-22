@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Dr. Ankit Deshmukh Portfolio"
+title = "edgeospatial"
 author = "Dr. Ankit Deshmukh"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = "G-8QBMHDX7LY"
@@ -150,7 +150,7 @@ enableEmoji = true
     name = "License"
     title = "License"
     url = "/license/"
-    weight = 1
+    weight = 0
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"
