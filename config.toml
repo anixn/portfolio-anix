@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "RStudio"
   orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Theme for my freelancing and cunsulting in GIS and Water Resource."
   favicon = "/img/favicon.ico"
   logo = "/img/anix-logo.png"
   mainSections = ["blog", "project", "talk"]
